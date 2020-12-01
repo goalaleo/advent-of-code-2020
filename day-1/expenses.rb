@@ -23,7 +23,7 @@ class Expenses
   end
 
   # [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-  #  i           j              k
+  #  i                 j        k
   #
   #  example: trying to find sum to 17, set k to last index, set
   #  i to first index, set j to first index where i + j + k > 17.
