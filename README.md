@@ -1,1 +1,3 @@
-# advent-of-code-2020
+# Advent Of Code 2020
+
+- [x] Day 1
